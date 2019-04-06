@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 My project includes the following files:
 * <code>model.py</code> - containing the script to create and train the model
-* </code>drive.py</code> - for driving the car in autonomous mode
-* </code>model.h5</code> - containing a trained convolution neural network 
-* </code>run1.mp4</code> - a video of the model driving the car around the track in autonomous mode
+* <code>drive.py</code> - for driving the car in autonomous mode
+* <code>model.h5</code> - containing a trained convolution neural network 
+* <code>run1.mp4</code> - a video of the model driving the car around the track in autonomous mode
 
 
 ### Model Architecture and Training Strategy
@@ -85,8 +85,6 @@ In order to gauge how well the model was working, I split my image and steering 
 After training the model, the final step was to run the simulator to see how well the car was driving around track one.
 
 At the end of the process, the vehicle is able to drive autonomously around the track without leaving the road.
-
-Here is a video of the car driving arounf the track in autonomouse mode: [Result](./video.mp4)
 
 #### 2. Final Model Architecture
 
