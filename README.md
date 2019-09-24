@@ -10,7 +10,11 @@ This repo contains my solution to the Behavioral-Cloning Project for Udacity's S
 
 **Behavioral Cloning Project**
 
-The goals / steps of this project are the following:
+The objective of this project is to teach the computer to drive car on the basis of data collected in simulator provided by Udacity. Concepts of Deep Learning and Convolutional Neural Networks are used to teach the computer to drive car autonomously.
+
+Image-Data is collected using the Udacity Simulator. This data consists of images captured by 3 dashboard cams center, left and right and the corresponding steering angle, throttle, brake and speed. This dataset is used to train a neural network.
+
+The steps undertaken to complete this project are the following:
 * Use the simulator to collect data of good driving behavior
 * Build, a convolution neural network in Keras that predicts steering angles from images
 * Train and validate the model with a training and validation set
