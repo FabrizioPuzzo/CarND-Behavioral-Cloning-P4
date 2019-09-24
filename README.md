@@ -28,7 +28,7 @@ My project includes the following files:
 * <code>model.py</code> - containing the script to create and train the model
 * <code>drive.py</code> - for driving the car in autonomous mode
 * <code>model.h5</code> - containing a trained convolution neural network 
-* <code>run1.mp4</code> - a video of the model driving the car around the track in autonomous mode
+* <code>run1.mp4</code>, <code>run2.mp4</code> - a video of the model driving the car around the track in autonomous mode
 
 
 ### Model Architecture and Training Strategy
